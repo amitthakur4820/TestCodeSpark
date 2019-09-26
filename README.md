@@ -12,10 +12,12 @@ http://localhost:1313/git-repository-comb/swagger-ui.html#/
 2]If user has project on git hub and git lab and having same UserId on git hub and gitlab then you can get the combined data
 Please go tjrough below sample URL
 http://localhost:1313/git-repository-comb/user/amitthakur4820/project
-List of projects on Git Hub
-1]angular-acvire
-2]spring
-3]TestCodeSpark
+List of projects on Git Hub for userd id ="smitthakur4820"
+
+
+#1]angular-acvire
+#2]spring
+#3]TestCodeSpark
 
 List of projects on Git Lab
 1]Amitthakur4820GItalbProject
