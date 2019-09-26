@@ -20,7 +20,7 @@ List of projects on Git Hub
 List of projects on Git Lab
 1]Amitthakur4820GItalbProject
 
-Then After hitinhg the url you can find four projects for amitthakur4820 as 3 from github and one is from git lab
+Then After hiting the url you can find four projects for amitthakur4820 as 3 from github and one is from git lab
 
 UserId "amitthakur4820" Has project on GitLab as well as on GitHub 
 Now if you try to get daa from the above endpoint then it will provide you combined response.
